@@ -1,5 +1,9 @@
 import java.util.ArrayList;
 
+/*
+ * Written by Jason Parkin 2022
+ */
+
 public class Hand {
 	
 	private String face;
